@@ -1,6 +1,6 @@
 # SoftwareDesignPatterns 🧩⚙️
 ## Description📜
-<p>This repo is about studying <i>Software Design Patterns</i> with <b>PYTHON<b></p>
+<p>This repo is about studying <i>Software Design Patterns</i> with <b>PYTHON<b>🐍</p>
 <p>In this repo we will learn and study main software design patterns.</p>
 <br>
 
