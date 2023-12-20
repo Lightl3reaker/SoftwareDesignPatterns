@@ -39,7 +39,11 @@ class MexicanDish(Dish):
         print("Dish==>name:{},description:{},price:{}$".format(
             self.name,self.description,self.price
         ))
-
+class IndianDish(Dish):
+    def display(self):
+        print("Dish==>name:{},description:{},price:{}$".format(
+            self.name,self.description,self.price
+        ))
 restaurant1=ItalianRestaurant()
 dish1=restaurant1.create_dish("pizza","flat_food","3000$")
 restaurant2=MexicanRestaurant()
