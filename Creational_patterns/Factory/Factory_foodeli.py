@@ -43,6 +43,6 @@ class MexicanDish(Dish):
 restaurant1=ItalianRestaurant()
 dish1=restaurant1.create_dish("pizza","flat_food","3000$")
 restaurant2=MexicanRestaurant()
-mexidish=restaurant2.create_dish("chila","like_mexicanflag,"2500")
+mexidish=restaurant2.create_dish("chila","like_mexicanflag","2500")
 dish1.display()
 mexidish.display()
