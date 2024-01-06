@@ -1,7 +1,7 @@
 # Observer Pattern
 ## Description
 <p>Comming Soon...</p>
-## Usages
+##  Usages
 <ol>
     <li>Event Handling in GUIs</li>
         Graphical User Interfaces (GUIs) often use the Observer Pattern to handle user interactions. Components like buttons, checkboxes, and text fields act as observers that respond to events triggered by the user.
